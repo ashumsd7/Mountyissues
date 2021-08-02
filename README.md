@@ -25,6 +25,10 @@
 ### A.Join us has no event handling
 ![issue4](https://i.ibb.co/qxxLMQ1/issue4.png "Text to show on mouseover").
 
+## ISSUE 4
+### Open website in any mobile phone/ inspect site in browser in mobile view>    white strip where all navs > click to man icon for login> now scroll down > some social media links are there. Problem is except YT and Whatapp no links are working> Page Not found
+![issue4](https://i.ibb.co/f91t3WW/issue8.png "Text to show on mouseover").
+
 
 ### If i am not wrong.
 ##  Mount this asap Dear developers of mounty. :D
